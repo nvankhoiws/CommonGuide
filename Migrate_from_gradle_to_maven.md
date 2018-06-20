@@ -7,7 +7,7 @@ This guide you how to convert a gradle project to maven project by follow the be
   In your computer, `jdk`, `maven` and `gradle` must be installed
 
   -----------
-   Please follow step by step:X
+   Please follow step by step:
 
   1. Go into directory of gradle project (src root directory)
 
@@ -17,7 +17,7 @@ This guide you how to convert a gradle project to maven project by follow the be
 
   4. Run command: `gradle install`
 
-  5. Go into `build` folder, go deep to folder poms, copy file named `pom-default.xml` to src root directory
+  5. Go into `build` folder, go deep to folder `poms`, copy file named `pom-default.xml` to src root directory
 
   6. You may want rename `pom-default.xml` to `pom.xml` if you like
 
